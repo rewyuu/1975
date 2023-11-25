@@ -1,0 +1,8 @@
+Instructions:
+Firstly, download the zip
+Next, Open Visual Studio Code
+on File click Open Folder
+Select this Folder
+Right click the html file and click open with live server (Note:You need Live Servers Extension for it)
+
+The website is static and unfinished because I only did it in 1 hour because im lazy, im sorry sir!!
